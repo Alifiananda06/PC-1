@@ -1,6 +1,6 @@
 |**Nama**|**NIM**|**Kelas**|**Matkul**|**Semester**|
 |----|---|-----|------|---|
-|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pengolahan Citra|`4`|
+|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pengolahan Citra|4|
 
 # Hasil Tugas ke 1
 
