@@ -1,12 +1,6 @@
-| Nama       | John Doe   | 
-|------------|------------|
-| NIM        | 123456789  | 
-|------------|------------|
-| Kelas      | IF-1A      | 
-|------------|------------|
-| Matkul     | Pemrograman| 
-|------------|------------|
-| Semester   | Ganjil     | 
+| **Nama**   | **NIM**     | **Kelas** | **Matkul**     | **Semester** |
+|------------|-------------|-----------|----------------|--------------|
+|Alifia Ananda Putri|312210168|TI.22.A2|Pengolahan Citra|4|
 
 
 # Hasil Tugas ke 1
