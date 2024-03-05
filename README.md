@@ -1,6 +1,10 @@
-|**Nama**|**NIM**|**Kelas**|**Matkul**|**Semester**|
-|----|---|-----|------|--|
-|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pengolahan Citra|4|
+| Nama       | John Doe   | 
+|------------|------------|
+| NIM        | 123456789  | 
+| Kelas      | IF-1A      | 
+| Matkul     | Pemrograman| 
+| Semester   | Ganjil     | 
+
 
 # Hasil Tugas ke 1
 
